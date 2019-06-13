@@ -1,0 +1,13 @@
+{
+  "id": "{E38905D3-37E3-4AB3-861A-0F41CFE60BC8}",
+  "name": "Pushover",
+  "type": 3,
+  "vendor": "Ulrich Bittner",
+  "aliases": [
+    "Pushover"
+  ],
+  "parentRequirements": [],
+  "childRequirements": [],
+  "implemented": [],
+  "prefix": "PO"
+}

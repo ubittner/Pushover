@@ -1,0 +1,13 @@
+{
+  "id": "{E1B42F7C-3733-404C-8E9D-037A9883AD43}",
+  "author": "Ulrich Bittner",
+  "name": "Pushover",
+  "url": "https://pushover.net",
+  "compatibility": {
+    "version": "5.1",
+    "date": 1556668800
+  },
+  "version": "1.00",
+  "build": 1,
+  "date": 1560448800
+}
